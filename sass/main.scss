@@ -11,9 +11,15 @@
 
 //components folder
 @import "components/button";
+@import "components/card";
+@import "components/composition";
+@import "components/feature-box";
 
 //layout folder
+@import "layout/grid";
 @import "layout/header";
+
+
 
 //pages folder
 @import "pages/home";
