@@ -10,6 +10,7 @@
 @import "base/utilities";
 
 //components folder
+@import "components/bg-video";
 @import "components/button";
 @import "components/card";
 @import "components/composition";
@@ -19,8 +20,6 @@
 //layout folder
 @import "layout/grid";
 @import "layout/header";
-
-
 
 //pages folder
 @import "pages/home";
